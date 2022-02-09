@@ -103,14 +103,14 @@ MonoBehaviour:
     overrideState: 0
     value: 100
   lift:
-    overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    overrideState: 1
+    value: {x: 0.97040707, y: 0.92237896, z: 1, w: 0}
   gamma:
     overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0}
   gain:
-    overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    overrideState: 1
+    value: {x: 1, y: 0.8730621, z: 0.7746656, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -748,7 +748,7 @@ MonoBehaviour:
       - 0.984375
       - 0.9921875
   hueVsHueCurve:
-    overrideState: 0
+    overrideState: 1
     value:
       curve:
         serializedVersion: 2
